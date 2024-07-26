@@ -1,0 +1,15 @@
+# Learn more at https://imgnx.org/dotenv
+.env**
+
+# Ignore all directories and their contents
+*/
+
+# Include all files in the root directory
+!/*
+
+# Optionally, exclude specific files or directories if needed
+# For example, to exclude a file in the root directory
+# !/example.txt
+
+# Note: You may need to explicitly include subdirectories
+# if there are specific ones you want to keep.
